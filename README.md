@@ -28,8 +28,9 @@ This is the demo project of Springboot Rest API using Swagger.
 # Swagger #
 Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 
+# Screenshot - Springboot Swagger #
+
 ![swagger-output](swagger-output.png)
 
-# Screenshot - Springboot Swagger #
 
 ### Happy Coding ###
